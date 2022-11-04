@@ -7,7 +7,9 @@
 <li> Spring boot </li>
 <li>Spring Jpa </li>
 <li> PostgreSql</li>
+<li> Hibernate </li>
 <li> Swagger-ui</li>
+<li> Lombok </li>
 
 ## Proje Akışı:
 
@@ -17,7 +19,7 @@
 <li> Swagger-ui eklendi. </li>
 
 ### 2. Ders: 
-<li> PgAdmin kurulumu yapıldı ve Database oluşturuldu. </li>
+<li> PgAdmin kurulumu yapıldı ve Database oluşturuldu. Lombok eklendi. </li>
 <li> Spring Jpa kullanılmaya başlandı ve gerçek database üzerinden işlemler yapılacak.
 <br>
 <p> JPA, Java programlama dilinde Java sınıfları ile ilişkisel veritabanı tablolarını ilişkilendirmek için ortaya çıkmış bir standarttır. Amaç SQL yazmadan 
